@@ -13,9 +13,13 @@ dependencies:
 
   cupertino_icons: ^1.0.2
   logger: ^1.2.2
+  # App과 Firestore 데이터베이스 연결 지원(실시간, 캐시, 보안 등)
   cloud_firestore: ^4.4.5
   firebase_core: ^2.8.0
+  # App에서 Firebase 인증 방법을 이용해 인증을 처리 할 수 있음
+  # 이멜/비번, 전화번호, Google/Facebook/Twitter/Github 인증 연계 가능
   firebase_auth: ^4.3.0
+  # 로딩 인디케이터 구현 
   modal_progress_hud_nsn: ^0.3.0
 
 dev_dependencies:
