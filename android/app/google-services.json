@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393877310403",
+    "project_id": "freeman-chatting",
+    "storage_bucket": "freeman-chatting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393877310403:android:7eb77aa546f432abe70b76",
+        "android_client_info": {
+          "package_name": "com.example.chatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393877310403-hfqi1lp7lbpfme6q6459m4egp8enela0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYBC8gDvu3F1BY-cfl_EerZxaF1eXxrIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393877310403-hfqi1lp7lbpfme6q6459m4egp8enela0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
